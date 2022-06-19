@@ -1,12 +1,12 @@
-#Projeto para integrar Firebase ao arduino utilizando node.js (API Jhonny-Five).
+Projeto para integrar Firebase ao arduino utilizando node.js (API Jhonny-Five).
 
-##1 - Pré requisitos
+1 - Pré requisitos
 
-###Hardware
+Hardware
     Arduino (Esse projeto foi desenvolvido com a versão UNO)
     um disposivo que rode o node e conecte o arduino via USB 
     
-###Software
+Software
 
 
 Jhonny-Five (https://github.com/rwaldron/johnny-five)
@@ -29,5 +29,3 @@ Jhonny-Five (https://github.com/rwaldron/johnny-five)
 
 2 - Criar uma conta firebase + 
     firebase.google.com
-
-2 - 
