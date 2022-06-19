@@ -1,6 +1,5 @@
 var five = require("johnny-five");
 var firebase = require("firebase");
-var mysql = require("mysql");
 
 var board = new five.Board();
 
@@ -15,8 +14,7 @@ var led = new five.Led(13);
     led: led
 });
 
-
-// configuração do seu repositorio FireBase
+// configuração do seu repositório FireBase
 var config = {
   apiKey: "",
   authDomain: "",
