@@ -4,7 +4,7 @@ Projeto para integrar Firebase ao arduino utilizando node.js (API Jhonny-Five).
 
 Hardware
     Arduino (Esse projeto foi desenvolvido com a versão UNO)
-    um disposivo que rode o node e conecte o arduino via USB 
+    e um disposivo que rode o node e conecte o arduino via USB 
     
 Software
 
